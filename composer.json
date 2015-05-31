@@ -1,6 +1,6 @@
 {
-    "name": "aydin-hassan/magento-core-composer-installer",
-    "description": "A composer plugin for managing Magento Core",
+    "name": "wlwwt/magento-core-composer-installer",
+    "description": "A composer plugin for managing Magento Source",
     "type": "composer-plugin",
     "license": "MIT",
     "require": {
