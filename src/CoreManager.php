@@ -26,7 +26,7 @@ class CoreManager implements PluginInterface, EventSubscriberInterface
      *
      * @var string
      */
-    protected $type = 'magento-core';
+    protected $type = 'magento-source';
 
     /**
      * @var Composer

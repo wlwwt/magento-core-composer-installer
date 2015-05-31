@@ -338,7 +338,7 @@ class CoreManagerTest extends \PHPUnit_Framework_TestCase
     public function createCorePackage($name = 'magento/core-package')
     {
         $package = new Package($name, "1.0.0", $name);
-        $package->setType('magento-core');
+        $package->setType('magento-source');
         return $package;
     }
 
